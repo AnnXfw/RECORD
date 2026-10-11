@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Renviron
+.env
+.venv/
+**/results/
+**/logs/
+*.raw
+*.bam
+*.bai
+*.fastq*
+*.fq*

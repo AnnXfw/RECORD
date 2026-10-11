@@ -1,0 +1,2 @@
+Place repository-downloaded inputs or symbolic links here. See the manuscript Data Availability section for sequencing accessions and public BG4/G4-seq datasets.
+

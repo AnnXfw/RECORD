@@ -1,0 +1,14 @@
+R version:
+R packages and versions:
+Python version:
+Python packages and versions:
+FastQC version: 0.12.1
+fastp version: 0.23.4
+Bowtie2 version: 2.5.4
+SAMtools version: 1.20
+deepTools version: 3.5.5
+MACS3 version: 3.0.2
+BEDTools version: 2.31.1
+MultiQC version: 1.21
+Operating system / HPC environment:
+
