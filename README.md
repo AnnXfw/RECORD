@@ -19,4 +19,4 @@ MIT; see [LICENSE](LICENSE). Third-party software and datasets retain their own 
 
 ## Archival release
 
-The planned initial release is v1.0.0. A Zenodo DOI will be added after archival; no DOI has yet been assigned.
+The initial archival release is [v1.0.0](https://github.com/AnnXfw/RECORD/releases/tag/v1.0.0), preserved on Zenodo at [DOI: 10.5281/zenodo.23296319](https://doi.org/10.5281/zenodo.23296319).
